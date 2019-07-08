@@ -1,0 +1,17 @@
+C:\Users\nylth\code\cats-api\tests\cats-api-test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nylth\code\cats-api\tests\cats-api-test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nylth\code\cats-api\tests\cats-api-test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nylth\code\cats-api\tests\cats-api-test\bin\Debug\netcoreapp2.2\cats-api-test.deps.json
+C:\Users\nylth\code\cats-api\tests\cats-api-test\bin\Debug\netcoreapp2.2\cats-api-test.runtimeconfig.json
+C:\Users\nylth\code\cats-api\tests\cats-api-test\bin\Debug\netcoreapp2.2\cats-api-test.runtimeconfig.dev.json
+C:\Users\nylth\code\cats-api\tests\cats-api-test\bin\Debug\netcoreapp2.2\cats-api-test.dll
+C:\Users\nylth\code\cats-api\tests\cats-api-test\bin\Debug\netcoreapp2.2\cats-api-test.pdb
+C:\Users\nylth\code\cats-api\tests\cats-api-test\obj\Debug\netcoreapp2.2\cats-api-test.csprojAssemblyReference.cache
+C:\Users\nylth\code\cats-api\tests\cats-api-test\obj\Debug\netcoreapp2.2\cats-api-test.csproj.CoreCompileInputs.cache
+C:\Users\nylth\code\cats-api\tests\cats-api-test\obj\Debug\netcoreapp2.2\cats-api-test.AssemblyInfoInputs.cache
+C:\Users\nylth\code\cats-api\tests\cats-api-test\obj\Debug\netcoreapp2.2\cats-api-test.AssemblyInfo.cs
+C:\Users\nylth\code\cats-api\tests\cats-api-test\obj\Debug\netcoreapp2.2\cats-api-test.dll
+C:\Users\nylth\code\cats-api\tests\cats-api-test\obj\Debug\netcoreapp2.2\cats-api-test.pdb
+c:\Users\nylth\code\cats-api\tests\cats-api-test\bin\Debug\netcoreapp2.2\cats-api.dll
+c:\Users\nylth\code\cats-api\tests\cats-api-test\bin\Debug\netcoreapp2.2\cats-api.pdb
+c:\Users\nylth\code\cats-api\tests\cats-api-test\obj\Debug\netcoreapp2.2\cats-api-test.csproj.CopyComplete
